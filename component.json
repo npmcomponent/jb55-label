@@ -1,0 +1,13 @@
+{
+  "name": "label",
+  "repo": "jb55/label",
+  "description": "Label component",
+  "version": "0.0.1",
+  "keywords": ["label", "bootstrap"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "label.css"
+  ]
+}
